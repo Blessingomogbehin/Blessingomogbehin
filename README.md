@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Blessingomogbehin
-- 👀 I’m interested in Information security, Security Audit, Incident Management, Fine Grained Access Control, Machine Learning and Cloud computing.
+- 👀 I’m interested in Lervaraging AI for advance education sytems, Information security, Security Audit, Incident Management, Fine Grained Access Control, Machine Learning and Cloud computing.
 - 🌱 my areas of strength are python, c++, Power BI, currently learning machine learning for cyber security 
 - 💞️ I’m looking to collaborate research in the area of cybersecurity, cloud computing and machine learning
 - 📫 How to reach me blessingomogbehin57@gmail.com
